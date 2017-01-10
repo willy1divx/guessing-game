@@ -1,0 +1,47 @@
+div {
+	height: 220px;
+	width: 220px;
+	background-color: blue;
+	margin: 2%;
+	display: inline-block;
+	float: none;
+}
+
+nav {
+	margin-left: 10%;
+}
+
+.header {
+	background-color: purple;
+	margin: auto;
+	height: 100px;
+}
+
+img {
+	height: 200px;
+	width: 200px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+h1 {
+
+	text-align: center;
+	color: red;
+}
+
+h2 {
+	z-index: 100;
+	color: white;
+	text-align: center;
+}
+
+
+
+#one {
+	background-color: blue;
+}
+
+#two {
+	background-color: blue;
+}

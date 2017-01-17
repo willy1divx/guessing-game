@@ -60,7 +60,7 @@ $(document).ready(function(){
 
 	var prize = Math.floor(Math.random() * 4) + 1;
 	var amount = (Math.floor(Math.random() * 10) + 1) *10;
-	var winMessage = "<h2> YOU WON $"+amount+"!!!! </h2>";
+	var winMessage = "<h2> YOU'VE WON $"+amount+"!!!! </h2>";
 	var loseMessage = "<h2> SORRY TRY AGAIN </h2>";
 	
 	
